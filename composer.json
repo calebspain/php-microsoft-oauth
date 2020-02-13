@@ -1,0 +1,12 @@
+{
+    "name": "calebspain/oauth",
+    "authors": [
+        {
+            "name": "Caleb Spain",
+            "email": "crspain@uh.edu"
+        }
+    ],
+    "require": {
+        "stevenmaguire/oauth2-microsoft": "^2.2"
+    }
+}
